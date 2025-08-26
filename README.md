@@ -36,7 +36,9 @@ This tool is created to:
 3. **Teach defensive coding practices** for web developers.  
 4. Provide a **hands-on learning experience** for ethical hackers and students.  
 
-> This is **not a hacking tool for attacking real users**.
+> > This is a **real hacking tool**, designed to **demonstrate XSS impacts and cookie theft in a legal, ethical pentesting context**.  
+> It is **not intended for malicious use** on unauthorized websites or real users.
+
 
 ---
 
