@@ -52,8 +52,7 @@ python main.py
 ```
 2. Use a **controlled lab environment**, e.g.,  
    [http://testphp.vulnweb.com/](http://testphp.vulnweb.com/).  
-3. Follow the instructions in `/docs/` to simulate XSS cookie access.  
-4. Observe **how cookies can be exposed**, without stealing real data.
+3. Observe **how cookies can be exposed**, without stealing real data.
 
 ---
 
