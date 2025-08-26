@@ -45,6 +45,7 @@ This tool is created to:
 ```
 git clone https://github.com/giriaryan694-a11y/CookieStealer.git
 cd CookieSteale
+pip install -r requirements.txt
 python main.py
 ```
 2. Use a **controlled lab environment**, e.g.,  
